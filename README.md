@@ -38,6 +38,7 @@ BigData-ETL-PySpark/
 └── .gitignore
 ```
 
+
 ## Setup Instructions
 
 ### 1. Clone Repository
@@ -75,6 +76,21 @@ output/cleaned_data.csv
 * Created new column:
 
   * **Profit_Ratio = Profit / Sales**
+
+## Screenshots
+
+### Sample Data
+![Sample 1](images/sample.png)
+![Sample 2](images/sample1.png)
+
+### Output CSV
+![Output 1](images/output.png)
+![Output 2](images/output1.png)
+
+### Terminal Execution
+![Run 1](images/terminal.png)
+![Run 2](images/terminal1.png)
+![Run 3](images/terminal2.png)
 
 
 ## Key Learnings
