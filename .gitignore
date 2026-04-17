@@ -12,3 +12,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignore all CSV files
+data/*.csv
+
+# BUT allow sample file
+!data/sample_sales.csv
